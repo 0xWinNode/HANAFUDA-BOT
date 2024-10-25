@@ -75,3 +75,5 @@ function clickElements() {
 // Start the process
 clickElements();
 ```
+
+## Terima Kasih
