@@ -28,8 +28,8 @@ This Python script is used to send automatic transactions in the form of ETH dep
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/airdropinsiders/Hanafuda-Bot.git
-   cd Hanafuda-Bot
+   git clone https://github.com/0xWinNode/HANAFUDA-BOT.git
+   cd HANAFUDA-BOT
    ```
 2.  **Install Requirements**
     ```bash
